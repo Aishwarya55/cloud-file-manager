@@ -72,3 +72,7 @@ group :test do
 end
 
 gem "pg", "~> 1.4"
+
+gem "jwt", "~> 2.5"
+
+gem "bcrypt", "~> 3.1"
