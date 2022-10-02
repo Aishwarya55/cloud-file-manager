@@ -76,3 +76,7 @@ gem "pg", "~> 1.4"
 gem "jwt", "~> 2.5"
 
 gem "bcrypt", "~> 3.1"
+
+gem 'active_model_serializers', '~> 0.10.0'
+
+gem "byebug", "~> 11.1", :groups => [:development, :test]
